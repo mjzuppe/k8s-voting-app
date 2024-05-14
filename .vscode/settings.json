@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/raw/master/pkg/agentcfg/agentcfg_schemas/ConfigurationFile.json": "file:///Users/markzuppe/Sites/k8s-testing/k8s-voting-app/voting-app-pod.yaml"
+    }
+}
